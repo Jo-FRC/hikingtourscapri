@@ -213,3 +213,9 @@ footer li:first-child:before {
     text-align: center;
     width: 20rem;
 }
+
+/*Aggiunto dopo  */
+
+.rocky-dashed {
+  width: 200px;
+}
